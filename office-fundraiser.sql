@@ -1,3 +1,5 @@
+-- DDL Script for office-fundraiser project
+
 DROP TABLE "FUNDRAISER";
 DROP TABLE "FUND_PEOPLE";
 DROP TABLE "FUND_PLEDGE";
