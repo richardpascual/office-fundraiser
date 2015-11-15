@@ -13,14 +13,23 @@ The purpose of this project is to allow employees or members of a office environ
 
 The following is the packaging list of scripts which need to be run on your hosting workstation/server in order to run the application.
 
-1. Step One
-1. Step Two
-1. Step Three
-1. Step Four
-1. Step Five
+1. The SQL `schema` file should be compiled first.
+1. The SQL `api and objects` file should be compiled second.
+1. If you need the front end application, install the `APEX` script using the Apex application installer.
 
-## Resources ##
+## License ##
 
+office-fundraiser, an application for tracking pledges and payments from small to medium sized fundraising efforts.  Copyright ©2015 Richard G. Pascual
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
+
+
+Richard Pascual
+11/15/2015
 
 
 ## Comments ##
